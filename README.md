@@ -8,6 +8,8 @@
 ## Excel
 
 ## 数据库
+1. [获取MySQL连接](python-utils/utils/DBUtils.py)
+2. 获取MongoDB连接
 
 ## 网络
 
