@@ -15,6 +15,7 @@ def getMySQLConn(user,password,host,port,database):
         use_unicode=True)
     return conn
 
+# 获取MongoDB连接
 def getMongoDBClient(ip,username,password,authSource,authMechanism):
     client = MongoClient(ip,
                      username=username,
