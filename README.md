@@ -10,3 +10,9 @@
 ## 数据库
 
 ## 网络
+
+# 依赖模块
+```
+pip install pymongo==3.12.3
+pip install mysql-connector==2.2.9
+```
