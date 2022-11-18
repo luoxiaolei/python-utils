@@ -7,7 +7,7 @@
 # 实现功能
 ## Excel
 
-## 数据库
+## 数据库 
 1. [获取MySQL连接](https://github.com/luoxiaolei/python-utils/blob/9739de9406e5ec33ef439307b50dca500ddec56d/utils/DBUtils.py#L10)
 2. [获取MongoDB连接](https://github.com/luoxiaolei/python-utils/blob/9739de9406e5ec33ef439307b50dca500ddec56d/utils/DBUtils.py#L18)
 
