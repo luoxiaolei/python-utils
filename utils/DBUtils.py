@@ -6,6 +6,7 @@ MYSQL_AUTH_PLUGIN = "mysql_native_password"
 def helloWorld():
     print("Hello World!")
 
+# 获取MySQL连接
 def getMySQLConn(user,password,host,port,database):
     conn = mysql.connector.connect(user=user, password=password,
         host=host, port=port,
