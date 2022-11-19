@@ -22,7 +22,7 @@ def createExcelAndTitle(path,fileName,titleArr):
     worksheet.write_row('A1', titleArr)
     workbook.close()
 
-# 获取指定单元格内容
+# 获取指定单元格内容(存在兼容性问题)
 def getCellContent(fileFullPath,sheetIndex,rowIndex,collIndex):
     xlsx = xlrd.open_workbook(fileFullPath)
     sheet = xlsx.sheets()[sheetIndex]
