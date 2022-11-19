@@ -1,6 +1,6 @@
 import os
 import xlsxwriter as xw
-import xlrd  
+import xlrd
 
 EXCEL_FILE_SUFFIX = ".xls"
 
