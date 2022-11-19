@@ -6,6 +6,9 @@
 
 # 实现功能
 ## Excel
+1. [新建Excel]()
+2. [新建Excel并设置表头]()
+3. [获取指定单元格内容]()
 
 ## 数据库 
 1. [获取MySQL连接](https://github.com/luoxiaolei/python-utils/blob/9739de9406e5ec33ef439307b50dca500ddec56d/utils/DBUtils.py#L10)
