@@ -14,7 +14,14 @@
 ## 网络
 
 # 依赖模块
+DB
 ```
 pip install pymongo==3.12.3
 pip install mysql-connector==2.2.9
+```
+
+Excel
+```
+pip install XlsxWriter==3.0.3
+pip install xlrd==1.2.0
 ```
