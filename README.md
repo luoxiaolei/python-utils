@@ -32,8 +32,8 @@ pip install xlrd==1.2.0
 # Side Project
 1. [拆分Excel](SideProject/SplitExcel/main.py)
 
-将一个Excel按行拆分为多个Excel。
+    将一个Excel按行拆分为多个Excel。
 
 2. [批量SSH后获取指定命令结果](SideProject/BatchSSH/)
 
-从Excel批量读取登录信息，执行命令后的结果写入新的Excel。
+    从Excel批量读取登录信息，执行命令后的结果写入新的Excel。
