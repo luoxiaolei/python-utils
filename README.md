@@ -16,7 +16,7 @@
 
 ## 网络
 
-# 依赖模块
+## 依赖模块
 DB
 ```
 pip install pymongo==3.12.3
@@ -28,3 +28,6 @@ Excel
 pip install XlsxWriter==3.0.3
 pip install xlrd==1.2.0
 ```
+
+# Side Project
+1. [拆分Excel-将一个Excel按行拆分为多个Excel](SideProject/SplitExcel/main.py)
