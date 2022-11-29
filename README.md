@@ -37,3 +37,7 @@ pip install xlrd==1.2.0
 2. [批量SSH后获取指定命令结果](SideProject/BatchSSH/ssh.py)
 
     从Excel批量读取登录信息，执行命令后的结果写入新的Excel。
+
+3. [登录获取token后批量下载文件](SideProject/BatchDownload/batchDownload.py)
+
+    模拟登录操作，获取token，携带token请求文件下载地址实现。
